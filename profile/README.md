@@ -1,4 +1,4 @@
-<img src="logo.png" alt="Karlsson Lab Logo" width="800"/>
+<img src="logo.png" alt="Karlsson Lab Logo" width="400"/>
 
 
 *Department of Environmental Science (ACES), Stockholm University*  
