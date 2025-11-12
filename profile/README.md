@@ -54,11 +54,11 @@ Typical repositories include:
 
 ## 🌍 Contact
 
-**Website:** [https://karlssonlab.se](https://karlssonlab.se)  
-**Address:** SciLifeLab, Tomtebodavägen 23, 171 65 Solna, Sweden  
-
 **Principal Investigator**  
 Oskar Karlsson — [oskar.karlsson@aces.su.se](mailto:oskar.karlsson@aces.su.se)
+
+**Website:** [https://karlssonlab.se](https://karlssonlab.se)  
+**Address:** SciLifeLab, Tomtebodavägen 23, 171 65 Solna, Sweden  
 
 ### 💻🧬 Bioinformatics Team
 
