@@ -32,8 +32,7 @@ We believe that **multidisciplinary and quantitative toxicology** is key for inn
 
 ## 🧪 Where We Work
 
-Our laboratory is located at **SciLifeLab**, a national infrastructure for high-throughput molecular technologies.  
-We collaborate closely with **Stockholm University**, **Karolinska Institute**, **KTH Royal Institute of Technology**, and **Uppsala University**.  
+Our laboratory is located at **SciLifeLab**, a national infrastructure for high-throughput molecular technologies collaborating closely with **Stockholm University**, **Karolinska Institute**, **KTH Royal Institute of Technology**, and **Uppsala University**.  
 
 We are part of the **Department of Environmental Science (ACES)** at Stockholm University —  
 ranked among the world’s top institutions in environmental science.
