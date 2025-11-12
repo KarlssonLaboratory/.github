@@ -1,4 +1,5 @@
-# 🧬 Karlsson Lab
+<img src="logo.png" alt="Karlsson Lab Logo" width="800"/>
+
 
 *Department of Environmental Science (ACES), Stockholm University*  
 *Science for Life Laboratory (SciLifeLab), Stockholm, Sweden*  
