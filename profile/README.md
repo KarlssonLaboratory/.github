@@ -51,5 +51,5 @@ Oskar Karlsson — [oskar.karlsson@aces.su.se](mailto:oskar.karlsson@aces.su.se)
 **Bioinformatician**  
 [Andrey Höglund](https://github.com/andreyhgl) — [andrey.hoglund@aces.su.se](mailto:andrey.hoglund@aces.su.se)
 
-**Doctoral Student**
+**Doctoral Student**<br>
 Eleftheria Theodoropolou — [eleftheria.theodoropolou@aces.su.se](mailto:eleftheria.theodoropolou@aces.su.se)
