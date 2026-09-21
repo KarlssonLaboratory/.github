@@ -3,7 +3,7 @@
 We conduct **toxicogenomic research** to understand how chemical contaminants impact human health, wildlife, and ecosystems.  
 Our goal is to develop *mechanistic, multidisciplinary, and translational* toxicology — a **“toxicology for life”** approach.
 
-## 🔬 Research Vision & Approach
+## Research Vision & Approach
 
 The Karlsson Lab works at the intersection of **experimental toxicology**, **computational modelling**, and **multi-omics**.  
 We integrate *human, wildlife, and model systems* to uncover how environmental chemicals affect biological function.
